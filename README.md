@@ -1,3 +1,4 @@
+# Accuknox Security Assessment
 ## Description
 The task was to explore the security posture of the publicly hosted endpoint "itsecgames.com". The website is known for known intentional vulnerabilities (bWAPP). Security scans were conducted on the website to find infrastructure vulnerabilities, Misconfigurations and outdated software.
 
